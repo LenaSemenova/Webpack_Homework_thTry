@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'OpenSans-Regular';
+    src: url('fonts/OpenSans-Regular.woff') format('woff'),
+         url('fonts/OpenSans-Regular.woff2') format('woff2');
+}
+h1 {
+    font-family: 'OpenSans-Regular';
+    text-align: center;
+}
+h3 {
+    font-family: 'OpenSans-Regular'; 
+}
+body {
+    background: rgb(224, 250, 255);
+}
+#myCarousel {
+    border: 1px solid black;
+}
